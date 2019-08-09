@@ -79,6 +79,7 @@ fuse.ini
 --------
 
 ::
+
   [fs]
   ;block size used for size info
   block_size = 512
